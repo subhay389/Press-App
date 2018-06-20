@@ -1,0 +1,23 @@
+{
+  "name": "press-app",
+  "version": "1.0.0",
+  "description": "Press App ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhay389/Press-App.git"
+  },
+  "author": "Subhay Manandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhay389/Press-App/issues"
+  },
+  "homepage": "https://github.com/subhay389/Press-App#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6"
+  }
+}
